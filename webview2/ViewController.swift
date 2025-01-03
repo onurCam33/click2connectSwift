@@ -13,7 +13,7 @@ class ViewController: UIViewController, WKUIDelegate, WKNavigationDelegate {
     
     var webView: WKWebView!
     let testURL = "https://www.w3schools.com/html/mov_bbb.mp4"
-    let urlString = "https://click2connect.tech/click2connect/voicecall/ahRzfm11c3RlcmktaGl6bWV0bGVyaXIhCxIUQ2xpY2syQ29ubmVjdFBhY2thZ2UYgIDylaPHrgsMogEVcHR0a2FyZ28uYWxvLXRlY2guY29t?nscode=cHR0a2FyZ28uYWxvLXRlY2guY29t&autoStartCall=true&user_data=%7B%22customer%22%3A%2205458786397%22%2C%22gonderikodu%22%3A%22123123abcd%22%2C%22isbankasi%22%3Atrue%7D&client_name=Birsen%20%C3%87eft&client_email=test%40test.com&phone_number=05071303103"
+    let urlString = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
