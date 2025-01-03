@@ -21,5 +21,38 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Mikrofon, sesli aramalar ve kayıt için gereklidir.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Kamera, video görüşmeleri için gereklidir.</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Medya kütüphanesine erişim, müzik ve video oynatımı için gereklidir.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Fotoğraf kütüphanesine erişim, video yükleme ve medya dosyaları için gereklidir.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Fotoğraf kütüphanesine medya eklemek için gereklidir.</string>
+	<key>NSVideoSubscriberAccountUsageDescription</key>
+	<string>Uygulama, video oynatımı ve yönetimi için video hesaplarına erişir.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Konum bilgisi, konuma dayalı hizmetler için gereklidir.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Konum bilgisi, arka planda hizmetler için gereklidir.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Konum bilgisi, bağlantı ve medya hizmetleri için gereklidir.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Bluetooth kullanımı cihaz bağlantıları için gereklidir.</string>
+	<key>NSMediaLibraryUsageDescription</key>
+	<string>Medya kütüphanesine erişim, müzik ve video oynatımı için gereklidir.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Yerel ağ erişimi, cihaz bağlantısı için gereklidir.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Konuşma tanıma, sesli komutlar için gereklidir.</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+	</dict>
 </dict>
 </plist>
